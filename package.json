@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/react-syntax-highlighter": "15.5.11",
+    "css-spring": "4.1.0",
     "framer-motion": "^11.1.7",
     "next": "14.2.3",
     "next-themes": "^0.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "shiro-rc": "^0.0.9"
+    "react-syntax-highlighter": "15.5.0",
+    "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
     "@types/node": "^20.12.7",
