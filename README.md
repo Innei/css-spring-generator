@@ -1,3 +1,7 @@
-## Shiro UI NextJS Template
+## CSS Spring Keyframe Generator
 
-Template for personal use, nothing more
+A simple CSS Spring Keyframe generator. Credit to [css-spring](https://github.com/codepunkt/css-spring)
+
+## License
+
+Innei. MIT
