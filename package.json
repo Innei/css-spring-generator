@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/react-syntax-highlighter": "15.5.13",
     "css-spring": "4.1.0",
-    "framer-motion": "^11.1.9",
+    "framer-motion": "^11.2.11",
     "next": "14.2.4",
     "next-themes": "^0.3.0",
     "react": "^18.2.0",
@@ -20,10 +20,10 @@
     "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
-    "@types/node": "^20.12.14",
+    "@types/node": "^20.14.7",
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
-    "daisyui": "^4.10.5",
+    "daisyui": "^4.12.2",
     "eslint": "^8.57.0",
     "eslint-config-next": "14.2.4",
     "postcss": "^8.4.38",
