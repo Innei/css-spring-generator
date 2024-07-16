@@ -34,7 +34,7 @@ importers:
         version: 15.5.0(react@18.2.0)
       shiro-rc:
         specifier: ^0.0.10
-        version: 0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.39)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.5)
+        version: 0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.39)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.6)
     devDependencies:
       '@types/node':
         specifier: ^20.14.10
@@ -58,8 +58,8 @@ importers:
         specifier: ^8.4.39
         version: 8.4.39
       tailwindcss:
-        specifier: ^3.4.5
-        version: 3.4.5
+        specifier: ^3.4.6
+        version: 3.4.6
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -1899,8 +1899,8 @@ packages:
     peerDependencies:
       tailwindcss: '*'
 
-  tailwindcss@3.4.5:
-    resolution: {integrity: sha512-DlTxttYcogpDfx3tf/8jfnma1nfAYi2cBUYV2YNoPPecwmO3YGiFlOX9D8tGAu+EDF38ryBzvrDKU/BLMsUwbw==}
+  tailwindcss@3.4.6:
+    resolution: {integrity: sha512-1uRHzPB+Vzu57ocybfZ4jh5Q3SdlH7XW23J5sQoM9LhE9eIOlzxer/3XPSsycvih3rboRsvt0QCmzSrqyOYUIA==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -3948,7 +3948,7 @@ snapshots:
     dependencies:
       '@shikijs/core': 1.2.0
 
-  shiro-rc@0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.39)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.5):
+  shiro-rc@0.0.10(@types/react-dom@18.2.25)(@types/react@18.2.79)(postcss@8.4.39)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(tailwindcss@3.4.6):
     dependencies:
       '@floating-ui/react-dom': 2.0.8(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@radix-ui/react-scroll-area': 1.0.5(@types/react-dom@18.2.25)(@types/react@18.2.79)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
@@ -3961,7 +3961,7 @@ snapshots:
       jotai: 2.7.1(@types/react@18.2.79)(react@18.2.0)
       shiki: 1.2.0
       tailwind-merge: 2.3.0
-      tailwind-variants: 0.2.0(tailwindcss@3.4.5)
+      tailwind-variants: 0.2.0(tailwindcss@3.4.6)
     transitivePeerDependencies:
       - '@emotion/is-prop-valid'
       - '@types/react'
@@ -4071,12 +4071,12 @@ snapshots:
     dependencies:
       '@babel/runtime': 7.24.4
 
-  tailwind-variants@0.2.0(tailwindcss@3.4.5):
+  tailwind-variants@0.2.0(tailwindcss@3.4.6):
     dependencies:
       tailwind-merge: 2.3.0
-      tailwindcss: 3.4.5
+      tailwindcss: 3.4.6
 
-  tailwindcss@3.4.5:
+  tailwindcss@3.4.6:
     dependencies:
       '@alloc/quick-lru': 5.2.0
       arg: 5.0.2
