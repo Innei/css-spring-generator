@@ -3,6 +3,10 @@
     {
       "source": "/test/:path*",
       "destination": "https://follow-topaz.vercel.app/:path*"
+    },
+    {
+      "source": "/external-dist/:path*",
+      "destination": "https://follow-topaz.vercel.app/external-dist/:path*"
     }
   ]
 }
