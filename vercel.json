@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/share/:path*",
-      "destination": "https://follow-topaz.vercel.app/:path*"
+      "destination": "https://follow-topaz.vercel.app/share/:path*"
     },
     {
       "source": "/og/:path*",
