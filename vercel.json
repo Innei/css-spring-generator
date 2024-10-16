@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/test/:path*",
+      "destination": "https://follow-topaz.vercel.app/:path*"
+    }
+  ]
+}
