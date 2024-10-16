@@ -6,7 +6,7 @@
     },
     {
       "source": "/og/:path*",
-      "destination": "https://follow-topaz.vercel.app/:path*"
+      "destination": "https://follow-topaz.vercel.app/og/:path*"
     },
     {
       "source": "/external-dist/:path*",
