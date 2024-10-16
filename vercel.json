@@ -1,7 +1,11 @@
 {
   "rewrites": [
     {
-      "source": "/test/:path*",
+      "source": "/share/:path*",
+      "destination": "https://follow-topaz.vercel.app/:path*"
+    },
+    {
+      "source": "/og/:path*",
       "destination": "https://follow-topaz.vercel.app/:path*"
     },
     {
