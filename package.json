@@ -20,7 +20,7 @@
     "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
-    "@types/node": "^20.16.12",
+    "@types/node": "^20.16.13",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "daisyui": "^4.12.13",
