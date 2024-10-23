@@ -15,8 +15,8 @@ importers:
         specifier: 4.1.0
         version: 4.1.0
       framer-motion:
-        specifier: ^11.9.0
-        version: 11.9.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: ^11.11.9
+        version: 11.11.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next:
         specifier: 14.2.16
         version: 14.2.16(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -30,8 +30,8 @@ importers:
         specifier: ^18.3.1
         version: 18.3.1(react@18.3.1)
       react-syntax-highlighter:
-        specifier: 15.5.0
-        version: 15.5.0(react@18.3.1)
+        specifier: 15.6.1
+        version: 15.6.1(react@18.3.1)
       shiro-rc:
         specifier: ^0.0.10
         version: 0.0.10(@types/react-dom@18.3.1)(@types/react@18.3.12)(postcss@8.4.47)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.14)
@@ -1074,8 +1074,8 @@ packages:
     resolution: {integrity: sha512-wzsgA6WOq+09wrU1tsJ09udeR/YZRaeArL9e1wPbFg3GG2yDnC2ldKpxs4xunpFF9DgqCqOIra3bc1HWrJ37Ww==}
     engines: {node: '>=0.4.x'}
 
-  framer-motion@11.9.0:
-    resolution: {integrity: sha512-nCfGxvsQecVLjjYDu35G2F5ls+ArE3FBfhxV0RSiisMaUKqteq5DMBFNRKwMyVj+VqKTNhawt+BV480YCHKFlQ==}
+  framer-motion@11.11.9:
+    resolution: {integrity: sha512-XpdZseuCrZehdHGuW22zZt3SF5g6AHJHJi7JwQIigOznW4Jg1n0oGPMJQheMaKLC+0rp5gxUKMRYI6ytd3q4RQ==}
     peerDependencies:
       '@emotion/is-prop-valid': '*'
       react: ^18.0.0
@@ -1193,6 +1193,9 @@ packages:
 
   highlight.js@10.7.3:
     resolution: {integrity: sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==}
+
+  highlightjs-vue@1.0.0:
+    resolution: {integrity: sha512-PDEfEF102G23vHmPhLyPboFCD+BkMGu+GuJe2d9/eH4FsCwvgBpnc9n0pGE+ffKdph38s6foEZiEjdgHdzp+IA==}
 
   ignore@5.3.2:
     resolution: {integrity: sha512-hsBTNUqQTDwkWtcdYI2i06Y/nUBEsNEDJKjWdigLvegy8kDuJAS8uRlpkkcQpyEXL0Z/pjDy5HBmMjRCJ2gq+g==}
@@ -1724,8 +1727,8 @@ packages:
       '@types/react':
         optional: true
 
-  react-syntax-highlighter@15.5.0:
-    resolution: {integrity: sha512-+zq2myprEnQmH5yw6Gqc8lD55QHnpKaU8TOcFeC/Lg/MQSs8UknEA0JC4nTZGFAXC2J2Hyj/ijJ7NlabyPi2gg==}
+  react-syntax-highlighter@15.6.1:
+    resolution: {integrity: sha512-OqJ2/vL7lEeV5zTJyG7kmARppUjiB9h9udl4qHQjjgEos66z00Ia0OckwYfRxCSFrW8RJIBnsBwQsHZbVPspqg==}
     peerDependencies:
       react: '>= 0.14.0'
 
@@ -3284,7 +3287,7 @@ snapshots:
 
   format@0.2.2: {}
 
-  framer-motion@11.9.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  framer-motion@11.11.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
       tslib: 2.7.0
     optionalDependencies:
@@ -3409,6 +3412,8 @@ snapshots:
       space-separated-tokens: 1.1.5
 
   highlight.js@10.7.3: {}
+
+  highlightjs-vue@1.0.0: {}
 
   ignore@5.3.2: {}
 
@@ -3914,10 +3919,11 @@ snapshots:
     optionalDependencies:
       '@types/react': 18.3.12
 
-  react-syntax-highlighter@15.5.0(react@18.3.1):
+  react-syntax-highlighter@15.6.1(react@18.3.1):
     dependencies:
       '@babel/runtime': 7.25.6
       highlight.js: 10.7.3
+      highlightjs-vue: 1.0.0
       lowlight: 1.20.0
       prismjs: 1.29.0
       react: 18.3.1
@@ -4042,7 +4048,7 @@ snapshots:
       clsx: 2.1.1
       daisyui: 4.7.2(postcss@8.4.47)
       dayjs: 1.11.10
-      framer-motion: 11.9.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      framer-motion: 11.11.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       jotai: 2.7.1(@types/react@18.3.12)(react@18.3.1)
       shiki: 1.2.0
       tailwind-merge: 2.5.2
