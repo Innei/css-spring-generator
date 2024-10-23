@@ -12,7 +12,7 @@
     "@types/react-syntax-highlighter": "15.5.13",
     "css-spring": "4.1.0",
     "framer-motion": "^11.9.0",
-    "next": "14.2.15",
+    "next": "14.2.16",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -20,12 +20,12 @@
     "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
-    "@types/node": "^20.16.14",
-    "@types/react": "^18.3.11",
+    "@types/node": "^20.16.15",
+    "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "daisyui": "^4.12.13",
     "eslint": "^8.57.1",
-    "eslint-config-next": "14.2.15",
+    "eslint-config-next": "14.2.16",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",
     "typescript": "^5.6.3"
