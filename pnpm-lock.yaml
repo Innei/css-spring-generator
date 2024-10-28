@@ -37,8 +37,8 @@ importers:
         version: 0.0.10(@types/react-dom@18.3.1)(@types/react@18.3.12)(postcss@8.4.47)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.14)
     devDependencies:
       '@types/node':
-        specifier: ^20.17.1
-        version: 20.17.1
+        specifier: ^20.17.2
+        version: 20.17.2
       '@types/react':
         specifier: ^18.3.12
         version: 18.3.12
@@ -46,8 +46,8 @@ importers:
         specifier: ^18.3.1
         version: 18.3.1
       daisyui:
-        specifier: ^4.12.13
-        version: 4.12.13(postcss@8.4.47)
+        specifier: ^4.12.14
+        version: 4.12.14(postcss@8.4.47)
       eslint:
         specifier: ^8.57.1
         version: 8.57.1
@@ -515,8 +515,8 @@ packages:
   '@types/json5@0.0.29':
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
 
-  '@types/node@20.17.1':
-    resolution: {integrity: sha512-j2VlPv1NnwPJbaCNv69FO/1z4lId0QmGvpT41YxitRtWlg96g/j8qcv2RKsLKe2F6OJgyXhupN1Xo17b2m139Q==}
+  '@types/node@20.17.2':
+    resolution: {integrity: sha512-OOHK4sjXqkL7yQ7VEEHcf6+0jSvKjWqwnaCtY7AKD/VLEvRHMsxxu7eI8ErnjxHS8VwmekD4PeVCpu4qZEZSxg==}
 
   '@types/prop-types@15.7.13':
     resolution: {integrity: sha512-hCZTSvwbzWGvhqxp/RqVqwU999pBf2vp7hzIjiYOsl8wqOmUxkQ6ddw1cV3l8811+kdUFus/q4d1Y3E3SyEifA==}
@@ -788,8 +788,8 @@ packages:
     resolution: {integrity: sha512-pHJg+jbuFsCjz9iclQBqyL3B2HLCBF71BwVNujUYEvCeQMvV97R59MNK3R2+jgJ3a1fcZgI9B3vYgz8lzr/BFQ==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
 
-  daisyui@4.12.13:
-    resolution: {integrity: sha512-BnXyQoOByUF/7wSdIKubyhXxbtL8gxwY3u2cNMkxGP39TSVJqMmlItqtpY903fQnLI/NokC+bc+ZV+PEPsppPw==}
+  daisyui@4.12.14:
+    resolution: {integrity: sha512-hA27cdBasdwd4/iEjn+aidoCrRroDuo3G5W9NDKaVCJI437Mm/3eSL/2u7MkZ0pt8a+TrYF3aT2pFVemTS3how==}
     engines: {node: '>=16.9.0'}
 
   daisyui@4.7.2:
@@ -2498,7 +2498,7 @@ snapshots:
 
   '@types/json5@0.0.29': {}
 
-  '@types/node@20.17.1':
+  '@types/node@20.17.2':
     dependencies:
       undici-types: 6.19.8
 
@@ -2814,7 +2814,7 @@ snapshots:
 
   culori@3.3.0: {}
 
-  daisyui@4.12.13(postcss@8.4.47):
+  daisyui@4.12.14(postcss@8.4.47):
     dependencies:
       css-selector-tokenizer: 0.8.0
       culori: 3.3.0
