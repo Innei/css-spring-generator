@@ -11,12 +11,12 @@
   "dependencies": {
     "@types/react-syntax-highlighter": "15.5.13",
     "css-spring": "4.1.0",
-    "framer-motion": "^11.11.17",
+    "framer-motion": "^11.18.2",
     "next": "14.2.23",
-    "next-themes": "^0.3.0",
+    "next-themes": "^0.4.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-syntax-highlighter": "15.5.0",
+    "react-syntax-highlighter": "15.6.1",
     "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
@@ -26,8 +26,8 @@
     "daisyui": "^4.12.23",
     "eslint": "^8.57.1",
     "eslint-config-next": "14.2.23",
-    "postcss": "^8.4.49",
+    "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.3"
   }
 }
