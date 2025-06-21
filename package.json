@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/react-syntax-highlighter": "15.5.13",
     "css-spring": "4.1.0",
-    "framer-motion": "^11.11.17",
+    "framer-motion": "^11.18.2",
     "next": "14.2.30",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
@@ -20,14 +20,14 @@
     "shiro-rc": "^0.0.10"
   },
   "devDependencies": {
-    "@types/node": "^20.17.22",
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
+    "@types/node": "^20.17.58",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
     "daisyui": "^4.12.24",
     "eslint": "^8.57.1",
-    "eslint-config-next": "14.2.24",
-    "postcss": "^8.4.49",
+    "eslint-config-next": "14.2.30",
+    "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17",
-    "typescript": "^5.6.3"
+    "typescript": "^5.8.3"
   }
 }
