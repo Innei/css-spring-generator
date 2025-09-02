@@ -14,8 +14,8 @@
     "framer-motion": "^11.18.2",
     "next": "14.2.32",
     "next-themes": "^0.3.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "react-syntax-highlighter": "15.5.0",
     "shiro-rc": "^0.0.10"
   },
