@@ -23,7 +23,7 @@
     "@types/node": "^20.19.2",
     "@types/react": "^18.3.23",
     "@types/react-dom": "^18.3.7",
-    "daisyui": "^4.12.24",
+    "daisyui": "^5.1.7",
     "eslint": "^8.57.1",
     "eslint-config-next": "14.2.30",
     "postcss": "^8.5.6",
